@@ -1,2 +1,2 @@
-THis is a test for testing the repo of github, basics functionalities
+This is a test for testing the repo of github, basics functionalities
 and other stuffs.
